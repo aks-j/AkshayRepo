@@ -4,7 +4,7 @@ echo "Value of a"
 read a
 echo "Value of b"
 read b
-echo "Hello value of a and b is $a $b"
+echo "Hello value of a and b is $a,$b"
 echo "This is sample change"
 echo "bye"
 echo "hi"
