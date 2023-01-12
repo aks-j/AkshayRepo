@@ -8,3 +8,8 @@ echo "Hello value of a and b is $a,$b"
 echo "This is sample change"
 echo "bye"
 echo "hi"
+echo '--------------------------------------------------------'
+School=Abc
+Standard=12
+university=xyz
+echo "School Name is $School and standard is $Standard in $university university"
