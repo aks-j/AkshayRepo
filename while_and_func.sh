@@ -5,6 +5,12 @@ do
  a=`expr $a + 1`
 done
 echo "**********************************************"
+i=1
+while [ $i -le 100 ]
+do
+    echo $i
+    i=`expr $i + 1`
+done
 
 # Hello () {
 #  echo "Hello World"
