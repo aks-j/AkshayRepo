@@ -1,24 +1,24 @@
 
-if [ cond ] then:
-stmts//
-fi
+# if [ cond ] then:
+# stmts//
+# fi
 
-if cond then:
-	stmts;
-else:
-	stmts;
-fi
+# if cond then:
+# 	stmts;
+# else:
+# 	stmts;
+# fi
 
 
-if cnd 
-then
-	stmts;
-elif cond 
-then
-	stmts;
-else
-	stmts;
-fi
+# if cnd 
+# then
+# 	stmts;
+# elif cond 
+# then
+# 	stmts;
+# else
+# 	stmts;
+# fi
 
 echo -n "enter the num "
 read a
