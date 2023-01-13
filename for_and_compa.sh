@@ -62,6 +62,37 @@ done
 
 echo "====================================================="
 
+for ((i=1;i<=100;i++))
+do
+    echo "i"
+done
+
+echo "====================================================="
+
+for name in Akshay Anand Jadhav
+do
+        echo "My name is :- $name"
+done
+
+echo "====================================================="
+
+
+
+for name in a b c d
+do
+    if [ $name == d]
+    then
+    echo "It'S d"
+    else
+    echo "Name not found"
+done
+
+echo "====================================================="
+for i in {1..100}
+do
+   echo "$i"
+done
+echo "                     "
 
 
 
