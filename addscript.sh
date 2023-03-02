@@ -5,7 +5,3 @@ read b
 c=`expr $a + $b`
 echo $c
 echo "Hello world"
-echo $?
-123
-123
-15463
