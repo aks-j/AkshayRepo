@@ -30,3 +30,5 @@ then
 else
  echo "None of the condition met"
 fi
+hello my name is god
+vbgb
