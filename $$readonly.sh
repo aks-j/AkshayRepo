@@ -10,3 +10,7 @@ echo "cmdla list: $@"
 echo "no of cmdl: $#"
 echo '----------------------------------------------------------'
 Akshay Jadhav
+
+JADHAV AKSHAY
+aksjshshaka
+123456789
