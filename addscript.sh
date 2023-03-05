@@ -7,7 +7,7 @@ c=`expr $a + $b`
 echo $c
 echo "Hello world"
 Hello
-
+well we doing great
 
 
 
