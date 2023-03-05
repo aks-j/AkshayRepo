@@ -6,3 +6,8 @@ read b
 c=`expr $a + $b`
 echo $c
 echo "Hello world"
+Hello
+
+
+
+
