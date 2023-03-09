@@ -8,6 +8,9 @@ echo $c
 echo "Hello wor
 Hello
 well we doing great
+
+echo "this is my msg"
+
 echo "this is my msg"
 
 
