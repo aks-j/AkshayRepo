@@ -8,8 +8,4 @@ echo $c
 echo "Hello wor
 Hello
 well we doing great
-
-
-
-
-mybranch code
+echo "this is my msg"
