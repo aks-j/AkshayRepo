@@ -5,7 +5,9 @@ echo "please enter a number of b"
 read b
 c=`expr $a + $b`
 echo $c
-echo "Hello world"
+echo "Hello wor
+Hello
+well we doing great
 
 
 

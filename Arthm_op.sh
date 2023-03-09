@@ -16,7 +16,7 @@ echo "b / a : $val4"
 val5=`expr $b % $a`
 echo "b % a : $val5"
 
-
+echo "Hello"
 
 if [ $a == $b ]
 then
@@ -30,4 +30,3 @@ then
 else
  echo "None of the condition met"
 fi
-hello my name is god
